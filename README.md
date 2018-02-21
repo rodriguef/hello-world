@@ -1,4 +1,5 @@
 # hello-world
 a first step into git
 
-hey there, new to github. looking forward to share and receive knowledge and love for programing!
+
+ok i should have saved what i said in the master here, if i followed the tutorial correctly.
